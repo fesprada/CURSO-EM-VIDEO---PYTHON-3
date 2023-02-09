@@ -1,2 +1,3 @@
 # CURSO EM VIDEO » PYTHON 3
  
+# TESTE 1
